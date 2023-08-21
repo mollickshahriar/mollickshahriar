@@ -3,7 +3,7 @@
 #### Computer Engineer 
 
 
-I completed my bachelor degree of engineering in Computer Science and Technology from Zhejiang University of Technology.Now i am developing myself for work on Cybersecurity and machine learning field.
+I have completed my bachelor degree of engineering in Computer Science and Technology from Zhejiang University of Technology.Now i am developing myself for work on Cybersecurity and machine learning field.
 
 Skills: Python/Java/C++/SQL/Networking
 
